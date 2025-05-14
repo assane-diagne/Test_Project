@@ -145,6 +145,26 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosCachingUSD",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "USDMultiUser",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
